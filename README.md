@@ -86,7 +86,7 @@ To build and run the application in Android Studio:
 
 ## Members:
 - [@JDAA4](https://www.github.com/JDAA4)
-- [@AmbrizAlberto](https://www.github.com/AmbrizAlberto)
+- [@byQuesters](https://www.github.com/byQuesters)
 - [@Paco-Taco](https://www.github.com/Paco-Taco)
 - [@arielrosasc](https://www.github.com/arielrosasc)
 - [@CitlalyEstefania](https://www.github.com/CitlalyEstefania)
